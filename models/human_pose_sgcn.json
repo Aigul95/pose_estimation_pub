@@ -1,0 +1,24 @@
+{
+  "supercategory": "person",
+  "id": 1, "name": "person",
+  "keypoints": ["RAnkle",
+    "RKnee",
+    "RHip",
+    "LHip",
+    "LKnee",
+    "LAnkle",
+    "RWrist",
+    "RElbow",
+    "RShoulder",
+    "LShoulder",
+    "LElbow",
+    "LWrist",
+    "Neck",
+    "Nose",
+    "Head"],
+  "skeleton": [[15, 13], [13, 9], [13, 10],
+    [9, 8], [8, 7], [10, 11],
+    [11, 12], [9, 3], [10, 4], [3, 2],
+    [2, 1], [4, 5], [5, 6]]
+  }
+

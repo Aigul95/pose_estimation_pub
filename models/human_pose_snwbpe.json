@@ -1,0 +1,43 @@
+{
+   "supercategory": "person",
+   "id": 1,
+   "name": "person",
+   "keypoints": [
+      "Nose",
+      "LEye",
+      "REye",
+      "LEar",
+      "REar",
+      "LShoulder",
+      "RShoulder",
+      "LElbow",
+      "RElbow",
+      "LWrist",
+      "RWrist",
+      "LHip",
+      "RHip",
+      "LKnee",
+      "RKnee",
+      "LAnkle",
+      "RAnkle",
+      "UpperNeck"
+   ],
+   "skeleton": [[1, 2],
+ [1, 3],
+ [2, 4],
+ [3, 5],
+ [1, 6],
+ [1, 7],
+ [6, 8],
+ [7, 9],
+ [8, 10],
+ [9, 11],
+ [6, 12],
+ [7, 13],
+ [12, 14],
+ [13, 15],
+ [14, 16],
+ [15, 17]]
+      }
+
+
